@@ -90,6 +90,13 @@ Currently practicing hands-on web security challenges through **pwn.college**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakthi-08&layout=compact&theme=tokyonight)
 
 ---
+## 🏆 Achievements
+
+- 🛡️ **ChainGuard — Smart India Hackathon Project:** Built a cryptocurrency fraud investigation platform supporting Ethereum and Polygon analysis, transaction investigation, risk assessment and evidence generation.
+- 🔐 **TRUSTRA — iQOO Hackathon Project:** Developed a privacy-first Android + FastAPI platform for managing informal digital credit transactions with trust, risk, evidence and audit mechanisms.
+- 🤖 **TBINK — Beyond AI:** Designed a security-first AI architecture using a dedicated SecurityCore to control tool execution and orchestration.
+- 🧪 **pwn.college:** Completed Website Security learning modules and solved a practical Path Traversal challenge.
+---
 
 ## 🎯 Currently
 
