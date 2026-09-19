@@ -8,44 +8,66 @@ I like building security-focused projects and learning cybersecurity through han
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Projects & Work
 
 ### 🛡️ ChainGuard
 **Cryptocurrency Fraud Investigation Platform**
 
-- Ethereum & Polygon transaction analysis
+A cybersecurity investigation platform focused on reported cryptocurrency wallet addresses.
+
+- Ethereum & Polygon analysis
+- Transaction investigation
 - Wallet risk analysis
-- Transaction graph investigation
+- Transaction graph analysis
 - Evidence collection and report generation
-- Built for cybersecurity investigation workflows
+
+🔗 [View on GitHub](https://github.com/shakthi-08/chaingaurd)
+
+---
 
 ### 🔐 TRUSTRA
 **Privacy-First Digital Udhaar Platform**
 
-- Android + FastAPI + PostgreSQL
-- Secure customer/merchant connections
+An Android + FastAPI project designed to help merchants and customers manage informal credit transactions.
+
+- Android application
+- FastAPI + PostgreSQL backend
+- Secure authentication
 - Transaction and repayment tracking
 - Trust and risk management
 - Evidence and audit logging
 
+> 🚧 Hackathon project — repository not publicly available yet.
+
+---
+
 ### 🤖 TBINK — Beyond AI
 **Security-First Personal AI Architecture**
 
-- SecurityCore-based execution control
-- Controlled tool execution
-- Orchestration architecture
-- Principle: **Capability ≠ Authority**
+A work-in-progress project focused on controlled AI execution through a dedicated SecurityCore.
+
+- SecurityCore execution control
+- Tool authorization
+- Controlled execution
+- AI orchestration
+
+> 🚧 Work in progress — repository currently private.
+
+---
 
 ### 🕵️ OSINT Arsenal
-**Cybersecurity & OSINT Investigation Toolkit**
+**OSINT Investigation Toolkit**
+
+A local cybersecurity/OSINT project exploring investigation workflows and security tooling.
 
 - Username investigation
 - Email investigation
 - Domain reconnaissance
 - Network intelligence
-- Metadata and investigation tools
-- Linux-based security workflow
+- Metadata analysis
+- Linux-based security tooling
 
+> 🧪 Experimental/local project — public repository coming later.
 ---
 
 ## 🧪 Cybersecurity Learning
